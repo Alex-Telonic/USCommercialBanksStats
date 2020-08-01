@@ -2,7 +2,7 @@ This repository contains python code to generate statistical output from balance
 
 To get started:
 
-1. Clone repository
+1. Clone repository (Repo: https://github.com/Alex-Telonic/USCommercialBanksStats.git)
 2. Download data from http://pages.stern.nyu.edu/~pschnabl/research/callreports_final.zip
 3. Move stata file callreports_final.dta into same folder where repository resides.
 4. Run notebook of interest
